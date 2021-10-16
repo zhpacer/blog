@@ -21,7 +21,7 @@
 title: zhpacer's blog
 email: zhpacer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a personal blog, hope it will fun and useful
+  Just a personal blog, hope it will be fun and useful
 baseurl: "blog/" # the subpath of your site, e.g. /blog
 url: "https://zhpacer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhpacer
